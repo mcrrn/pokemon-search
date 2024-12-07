@@ -13,3 +13,18 @@ This is a simple React application built with TypeScript that allows users to se
 - **React** (for building the user interface)
 - **TypeScript** (for static typing)
 - **pokedex-promise-v2** (for fetching Pokémon data from the PokéAPI)
+- **Material-UI (MUI)** (for pre-designed components and styling)
+
+## Run
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. Start development server:
+
+```bash
+npm start
+```
